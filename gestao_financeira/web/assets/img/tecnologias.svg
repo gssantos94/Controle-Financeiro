@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css2?family=Baloo%20Da:wght@400&amp;display=swap); </style>
+</defs>
+<g>
+<g transform="translate(298,298) rotate(-18000,0,0)">
+<text fill="#30588c" stroke="none" font-family="Baloo Da" font-size="89.5549px" font-style="normal" font-weight="normal" x="-77.2816390991211" y="-35.821968000000005" text-anchor="start" dominant-baseline="alphabetic">UFF</text>
+</g>
+<g transform="translate(298,336) rotate(-11880.000000000002,0,0)">
+<text fill="rgb(0,20,61)" stroke="none" font-family="Baloo Da" font-size="67.1662px" font-style="normal" font-weight="normal" x="-84.55443572998047" y="-26.866476000000002" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">HTML</text>
+</g>
+<g transform="translate(294,228) rotate(-4320,0,0)">
+<text fill="rgb(146,204,193)" stroke="none" font-family="Baloo Da" font-size="67.1662px" font-style="normal" font-weight="normal" x="-67.93233489990234" y="-26.866476000000002" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Java</text>
+</g>
+<g transform="translate(298,384) rotate(-4680.000000000001,0,0)">
+<text fill="rgb(162,240,224)" stroke="none" font-family="Baloo Da" font-size="67.1662px" font-style="normal" font-weight="normal" x="-56.17933654785156" y="-26.866476000000002" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">CSS</text>
+</g>
+<g transform="translate(296,188) rotate(-12240.000000000002,0,0)">
+<text fill="rgb(0,20,61)" stroke="none" font-family="Baloo Da" font-size="67.1662px" font-style="normal" font-weight="normal" x="-45.19867706298828" y="-26.866476000000002" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Git</text>
+</g>
+<g transform="translate(298,406) rotate(-9360.000000000002,0,0)">
+<text fill="rgb(124,148,179)" stroke="none" font-family="Baloo Da" font-size="44.7775px" font-style="normal" font-weight="normal" x="-103.08289337158203" y="-17.910984000000003" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Bootstrap</text>
+</g>
+<g transform="translate(300,442) rotate(-11880.000000000002,0,0)">
+<text fill="rgb(0,20,61)" stroke="none" font-family="Baloo Da" font-size="44.7775px" font-style="normal" font-weight="normal" x="-88.37594604492188" y="-17.910984000000003" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Dev Web</text>
+</g>
+<g transform="translate(440,298) rotate(-3600,0,0)">
+<text fill="rgb(224,215,227)" stroke="none" font-family="Baloo Da" font-size="44.7775px" font-style="normal" font-weight="normal" x="-71.40813446044922" y="-17.910984000000003" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">GitHub</text>
+</g>
+<g transform="translate(146,298) rotate(-17280,0,0)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Baloo Da" font-size="44.7775px" font-style="normal" font-weight="normal" x="-69.57255554199219" y="-17.910984000000003" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Jquery</text>
+</g>
+<g transform="translate(298,126) rotate(-11160,0,0)">
+<text fill="#30588c" stroke="none" font-family="Baloo Da" font-size="44.7775px" font-style="normal" font-weight="normal" x="-69.52778625488281" y="-17.910984000000003" text-anchor="start" dominant-baseline="alphabetic">MySQL</text>
+</g>
+<g transform="translate(296,482) rotate(-14759.999999999998,0,0)">
+<text fill="rgb(146,204,193)" stroke="none" font-family="Baloo Da" font-size="44.7775px" font-style="normal" font-weight="normal" x="-104.91845703125" y="-17.910984000000003" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Javascript</text>
+</g>
+<g transform="translate(450,358) rotate(-5399.999999999999,0,0)">
+<text fill="rgb(224,215,227)" stroke="none" font-family="Baloo Da" font-size="44.7775px" font-style="normal" font-weight="normal" x="-98.76258850097656" y="-17.910984000000003" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">NetBeans</text>
+</g>
+<g transform="translate(436,308) rotate(-13679.999999999998,0,0)">
+<text fill="rgb(146,204,193)" stroke="none" font-family="Baloo Da" font-size="22.3887px" font-style="normal" font-weight="normal" x="-66.80425262451172" y="-8.955492000000001" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">PhpMyAdmin</text>
+</g>
+<g transform="translate(180,332) rotate(-6120.000000000001,0,0)">
+<text fill="rgb(146,204,193)" stroke="none" font-family="Baloo Da" font-size="22.3887px" font-style="normal" font-weight="normal" x="-59.183860778808594" y="-8.955492000000001" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Responsivo</text>
+</g>
+<g transform="translate(148,308) rotate(-8640,0,0)">
+<text fill="rgb(0,20,61)" stroke="none" font-family="Baloo Da" font-size="22.3887px" font-style="normal" font-weight="normal" x="-55.52473449707031" y="-8.955492000000001" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Tecnologia</text>
+</g>
+</g>
+</svg>
