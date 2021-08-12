@@ -3,7 +3,7 @@
 <html lang="pt-br">
   <head>
     <jsp:include page="header.html" />
-    <title>Gestão Financeiro</title>
+    <title>Gestão Financeira</title>
   </head>
   <body>
     <div id="preloader">
